@@ -3,7 +3,7 @@
 ## Tableau Dashboard
 https://public.tableau.com/views/Citi-Bike-Analysis_17011475989500/BasicMap?:language=en-US&:display_count=n&:origin=viz_share_link
 
-## For this analysis, I chose citi bike data from Jersey City from the months of January and July in 2023. I thought it would be interesting to see the difference between the data in the middle winter and the middle of summer. Below I will describe the phenomena I looked at and my written analysis.
+## For this analysis, I chose Citi Bike data from Jersey City from the months of January and July in 2023. I thought it would be interesting to see the difference between the data in the middle winter and the middle of summer. Below I will describe the phenomena I looked at and my written analysis.
 
 ## The 2 Phenomena Analyzed:
 ### 1. The difference in popularity in stations and trip duration
@@ -16,6 +16,7 @@ https://public.tableau.com/views/Citi-Bike-Analysis_17011475989500/BasicMap?:lan
 
 - Next, I chose to compare Member Status to station popularity and trip duration. Overall, it seems that the Top 10 Stations for each month show a much greater amount in members than casual riders using Citi Bikes. However when analyzing the trip duration, casual users show to have a higher average trip duration compared to members. This makes me think that the casual users might be using Citi Bikes as an alternative mode of transportation and not their first choice since they seems to be riding for a longer period of time.
 
+- Overall, as one could probably assume the trip durations and number of trips are much higher in the summer month of July compared to the winter month of January.
 
 
 #### And a thank you Shannon Lloyd who informed me the Jersey City data files were smaller than the NYC files to help with Tableau Public upload! :)
